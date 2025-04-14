@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandre-chevalier&label=Profile%20views&color=0e75b6&style=flat" alt="alexandre-chevalier" /> </p>
 
-- 🌱 I’m currently learning **html css python**
+- 🌱 I’m currently learning **python and data manipulation**
 
 - 📫 How to reach me **alexandre.chevalier@laplateforme.io**
 
